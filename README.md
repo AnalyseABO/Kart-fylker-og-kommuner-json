@@ -1,5 +1,5 @@
 # Kart-fylker-og-kommuner-json
-Kart av Norges fylker og kommuner etter 2024, samlet og fordelt på fylker - .json som fungerer blant annet i Power BI Shapemap
+Kart av Norges fylker og kommuner etter 2024, samlet og fordelt på fylker - topojson som fungerer blant annet i Power BI Shapemap
 
 * Basert på geojson-kart utarbeidet av [Robert Hopland](https://github.com/robhop), som igjen er baser på [data fra Kartverket](https://kartkatalog.geonorge.no/)
 * Klipping og konvertering er gjort i [Mapshaper](https://mapshaper.org/)
