@@ -12,7 +12,7 @@ Kart av Norges fylker og kommuner etter 2024, samlet og fordelt på fylker - top
   * Akershus, Buskerud og Østfold sammen
   * Akershus, Buskerud og Østfold med Oslo
   * Akershus og Oslo sammen
-* Kart med fylker og kommuner inkludert Svalbard, også kompaktversjoner hvor Svalbard er nedskalert og flyttet for mer ehnsiktsmessig visning. OBS!: Ikke egnet for navigasjon. 
+* Kart med fylker og kommuner inkludert Svalbard, også kompaktversjoner hvor Svalbard er nedskalert og flyttet for mer hensiktsmessig visning. OBS!: Ikke egnet for navigasjon. 
 
 * TO DO: 
 * ~~kart over bydeler, men her må vi få tak i kartdata fra kommunene som ikke har gjort det tilgjengelig (dvs alle utenom Fredrikstad)~~
